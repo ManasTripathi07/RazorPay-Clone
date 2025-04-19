@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.credits{
+    font-family: "Satisfy", cursive;
+    font-weight: 900;
+    font-style: normal;
+}
