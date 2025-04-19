@@ -3,10 +3,7 @@
   "scripts": {
   
     
-  "start": "vite",
-  "build": "postcss main.css",
-    
-  "vercel-build": "npm ci && npm run build"
+  "start": "vite"
   
   },
   
