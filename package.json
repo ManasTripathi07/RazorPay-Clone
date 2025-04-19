@@ -3,7 +3,8 @@
   "scripts": {
   
     
-  "start": "vite"
+  "start": "vite",
+    "vercel-build": "npm ci && npm run build"
   
   },
   
@@ -30,6 +31,7 @@
   
     
   "feather-icons": "^4.29.2"
+
   
   }
 }
