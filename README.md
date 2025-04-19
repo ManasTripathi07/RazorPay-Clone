@@ -26,7 +26,7 @@ A highly accurate Razorpay homepage clone built using **TailwindCSS** and smooth
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/your-username/razorpay-clone.git](https://github.com/ManasTripathi07/RazorPay-Clone)
+   git clone https://github.com/ManasTripathi07/RazorPay-Clone
    cd razorpay-clone
 
 2. **Install dependencies (if using Tailwind CLI or PostCSS)**
